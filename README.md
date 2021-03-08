@@ -28,7 +28,7 @@ Além disto é bom ter um editor para trabalhar com o código como <strong>VSCod
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/Bruno-Cesar123/starbucks-clone>
+$ git clone <https://github.com/Bruno-Cesar123/landing-page-starbucks>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd starbucks-clone
